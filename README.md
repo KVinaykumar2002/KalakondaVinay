@@ -25,7 +25,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MedamoniSharan&show_icons=true&count_private=true&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=KVinaykumar2002&show_icons=true&count_private=true&theme=radical" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVinaykumar2002&layout=compact&theme=radical&langs_count=8&hide=html,css" />
 </div>
 
