@@ -1,4 +1,4 @@
-# Hi there, I'm Medamoni Sharan 👋
+# Hi there, I'm Kalakonda Vinay Kumar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B88C3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
@@ -6,11 +6,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Graduated from **Keshav Memorial Institute of Technology (KMIT)**
-- 💼 Software Engineer based in Hyderabad.
+- 🎓 Graduated from **Vardhaman College of Engineering (VMEG)**
+- 💼 Associate Software Engineer based in Bengaluru.
 - 🔭 Currently focused on:
   - [**ProjectBazaar**](https://projectbazaar.in/)
-  - [**Project 2**](https://github.com/MedamoniSharan/CryptoAiTrade)
+  - [**Project 2**](https://optiwebrix.com/)
 - 📚 Learning **new technologies** and improving **technical knowledge**.
 
 
@@ -26,11 +26,11 @@
 
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MedamoniSharan&show_icons=true&count_private=true&theme=radical" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedamoniSharan&layout=compact&theme=radical&langs_count=8&hide=html,css" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVinaykumar2002&layout=compact&theme=radical&langs_count=8&hide=html,css" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedamoniSharan&theme=radical" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KVinaykumar2002&theme=radical" width="100%" />
 </div>
 
 
@@ -58,12 +58,12 @@
 ## 🌟 Profile Views
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@:MedamoniSharan?theme=gelbooru-h" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@:KVinaykumar2002?theme=gelbooru-h" alt="Profile Views" />
 </div>
 
 ## 🏆 GitHub Achievements
 
-[![@MedamoniSharan's Holopin board](https://holopin.io/api/user/board?user=MedamoniSharan)](https://holopin.io/@MedamoniSharan)
+[![@KVinaykumar2002's Holopin board](https://holopin.io/api/user/board?user=KVinaykumar2002)](https://holopin.io/@KVinaykumar2002)
 
 
 ---
